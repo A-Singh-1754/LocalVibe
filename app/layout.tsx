@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'LocalVibe',
   description: 'LocalVibe is a platform for event management.',
   icons: {
-    icon: '/assets/images/logo.svg'
+    icon: '/assets/images/logo.svg.png'
   }
 }
 
